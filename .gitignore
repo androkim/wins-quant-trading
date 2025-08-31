@@ -1,0 +1,10 @@
+.venv/
+.venv_backend/
+pycache/
+*.pyc
+.idea/
+trading.db
+backups/
+logs/
+.env
+control/*.log
